@@ -1,0 +1,13 @@
+1. When it comes to the code reviewer guidelines of yelp and microsoft, there are many similarities. The first similarity is that both advise the code is maintainable.
+  Both also advise to maintain and abide by past conventions even if it makes it a little bit less obvious. When it comes to differences, yelp puts more of a focus on 
+  test coverage than microsoft does. Microsoft encourages tests to be written, but not an emphasis on having a high code coverage . Also, Yelp suggests a primary code
+  reviewer, and microsoft does not.
+
+2. https://codereview.stackexchange.com/questions/287936/image-processing-application-in-c
+    This code review is beneficial as the reviewer goes in detail explaining why this code needs the changes it needs. He offers context and wholistically provides advice for the code.
+
+
+
+3.https://codereview.stackexchange.com/questions/54720/swing-calculator-first-gui-program
+   In this link, an example code review is given and it is not beneficial because he noticed the issue in words, but did not seek to show any new coding solutions. 
+  Also, the tone of which the reviewer spoke was not conducive to a good review, coming off as intimidating
